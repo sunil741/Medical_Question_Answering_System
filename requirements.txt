@@ -1,0 +1,7 @@
+click
+black
+transformers
+fastapi
+pytest
+pylint
+numpy
